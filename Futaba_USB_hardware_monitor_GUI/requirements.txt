@@ -1,0 +1,8 @@
+dearpygui==1.8.0
+mss
+pyyaml
+numba
+numpy
+opencv_python
+pyusb>=1.2.1
+libusb1

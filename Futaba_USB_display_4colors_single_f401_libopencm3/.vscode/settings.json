@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "usb_private.h": "c",
+        "st_usbfs_core.h": "c"
+    }
+}
