@@ -1,6 +1,6 @@
 ## Futaba GP1160AI (GP1160A02A) USB Display Driver
 
-[Îïèñàíèå íà ğóññêîì](README.ru.md)
+[ĞĞ¿Ğ¸ÑĞ°Ğ½Ğ¸Ğµ Ğ½Ğ° Ñ€ÑƒÑÑĞºĞ¾Ğ¼](README.ru.md)
 
 ![](https://github.com/iiiytn1k/Futaba_GP1160A/blob/master/KDPV.jpg?raw=true)
 
@@ -15,9 +15,9 @@ How to use:
 3. Connect the MCU to your PC. Drivers will be installed automatically
 4. Connect external 5V power to the display. Display should show a splash screen, as in the picture above
 5. Run ```Run.bat```. At the first start, a ```venv``` folder will be created in the program directory, in which all the required python modules will be installed
-6. After starting the program, click the «Connect­­» button. If everything went well, instead of the «Connect­­» button message "Connected" will be appear, and the firmware type will be displayed in the line below. You can check USB connection is working well by changing the display brigthness («Display brightness­» slider)
-7. Click the «Run­» button. When you first start the program, the captured image will be displayed on the display after a few seconds
-8. Adjust image parameters — position and size of the capture area, dithering algorithm, brightness/contrast/gamma
+6. After starting the program, click the Â«ConnectÂ» button. If everything went well, instead of the Â«ConnectÂ» button message "Connected" will be appear, and the firmware type will be displayed in the line below. You can check USB connection is working well by changing the display brigthness (Â«Display brightnessÂ» slider)
+7. Click the Â«RunÂ» button. When you first start the program, the captured image will be displayed on the display after a few seconds
+8. Adjust image parameters â€” position and size of the capture area, dithering algorithm, brightness/contrast/gamma
 
 
 ### Futaba_USB_hardware_monitor_GUI
@@ -35,8 +35,8 @@ How to use:
 32. Python 3.9 or above
 
 ### Demo:
-![](https://img.shields.io/badge/-youtube?logo=youtube&style=social)[????Bad Apple!! on Futaba GP1160A02A](https://youtu.be/tSLnOEqLiwY)
+![](https://img.shields.io/badge/-youtube?logo=youtube&style=social)[ã€æ±æ–¹ã€‘Bad Apple!! on Futaba GP1160A02A](https://youtu.be/tSLnOEqLiwY)
 
-![](https://img.shields.io/badge/-youtube?logo=youtube&style=social)[Futaba GP1160AI (GP1160A02A) 8 Colors Dual Mode. Doom II — MAP01. Ôèíàëüíûé ğåçóëüòàò.](https://youtu.be/7nB765_jwOM)
+![](https://img.shields.io/badge/-youtube?logo=youtube&style=social)[Futaba GP1160AI (GP1160A02A) 8 Colors Dual Mode. Doom II â€” MAP01. Ğ¤Ğ¸Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğ¹ Ñ€ĞµĞ·ÑƒĞ»ÑŒÑ‚Ğ°Ñ‚.](https://youtu.be/7nB765_jwOM)
 
 [Hardware Monitor](https://github.com/iiiytn1k/Futaba_GP1160A/blob/master/hm.jpg?raw=true)
